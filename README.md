@@ -2,9 +2,11 @@
 
 ## Awards🏆
 
-- 🥇Awarded the **Grand Prize** at the 2023 SeSAC Competition, presented by the President of Soongsil University.
+- 🥇Awarded the **Grand Prize** at the 2023 SeSAC Competition, presented by the President of Soongsil University and Seoul Business Agency.
 
 ## Demo
+
+- The full source code is not shared due to intellectual property concerns with the Unity assets used.
 
 ### Demo Video
 
